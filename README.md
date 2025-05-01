@@ -2,7 +2,15 @@
 
 A Streamlit-based web application for satellite image segmentation.
 
-## Steps to Run
+## 🚀 Live Demo
+
+👉 **Try it out live at [Hugging Face Spaces](https://huggingface.co/spaces/tahaspc/gnr602)** 👈
+
+You can test the application by uploading images, adjusting thresholds and depths, and viewing the segmentation results.
+
+---
+
+## Steps to Run Locally
 
 Follow these steps to run the Streamlit application locally:
 
@@ -33,5 +41,3 @@ streamlit run app.py
 ```
 
 The app will launch and can typically be accessed at `http://localhost:8501`.
-
-
